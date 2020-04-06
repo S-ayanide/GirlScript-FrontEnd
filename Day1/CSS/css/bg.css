@@ -1,0 +1,19 @@
+body{
+    background: url("https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png") no-repeat center fixed;
+    background-size: cover;        
+}
+
+div{
+    background-color: brown;
+}
+
+.bg_text{
+    color: white;
+    text-align: center;
+
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
