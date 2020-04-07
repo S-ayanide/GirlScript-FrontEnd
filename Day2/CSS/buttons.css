@@ -1,0 +1,20 @@
+a{
+    font-size: 25px;
+}
+
+a:link, a:visited{
+    background-color: saddlebrown;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+a:hover{
+    background-color: teal;
+}
+
+a:active{
+    background-color: violet;
+}

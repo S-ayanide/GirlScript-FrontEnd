@@ -1,0 +1,23 @@
+div{
+    height: 700px;
+    margin: 0;
+    padding: 0;    
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 200px;
+}
+
+p{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}

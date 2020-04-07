@@ -1,0 +1,16 @@
+.one{
+    border: 2px solid red;
+    width: 30%;
+    height: 200px;
+    text-align: center;    
+}
+
+.two{
+    border: 2px solid red;        
+    width: 30%;
+    padding: 6rem;
+}
+
+.checkPadding{
+    padding: 2rem;
+}

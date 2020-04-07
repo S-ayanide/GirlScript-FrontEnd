@@ -1,0 +1,9 @@
+.big{
+    height: 200px;
+    background: linear-gradient(#e15f41, grey);
+}
+
+.circle{
+    height: 400px;
+    background: radial-gradient(white, blue);
+}
