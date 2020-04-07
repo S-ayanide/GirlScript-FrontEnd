@@ -1,33 +1,27 @@
-div{    
-    margin: 0;
-    padding: 0;    
-}
-
-h1{
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
-.center{    
-    margin: 0 auto;
-    padding-top: 200px;
-}
-
-p{
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
-.parallax1{
-    background-image: url("img/parallax1.jpg") no-repeat center;
-
-    height: 500px;
-
-  /* Create the parallax scrolling effect */
+*{
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.parallax1 {
+  /* The image used */
+  background-image: url("img/parallax1.jpg");
+
+  /* Set a specific height */
+  height: 500px;     
+}
+.parallax2 {
+  /* The image used */
+  background-image: url("img/parallax2.jpg");
+
+  /* Set a specific height */
+  height: 500px;
+}
+.parallax3 {
+  /* The image used */
+  background-image: url("img/parallax3.jpg");
+
+  /* Set a specific height */
+  height: 500px;        
 }
