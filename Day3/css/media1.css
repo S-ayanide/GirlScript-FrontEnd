@@ -1,0 +1,19 @@
+.box{
+    background: red;
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+}
+
+@media (min-width: 768px){
+    .box{
+        height: 500px;
+    }
+}
+
+@media (max-width: 468px){
+    .box{
+        background: green;
+        height: 200px;
+    }
+}

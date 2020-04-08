@@ -1,0 +1,15 @@
+body{
+    background-color: darkcyan;
+    color: honeydew;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center button{
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color: indianred;
+}

@@ -1,0 +1,19 @@
+.tableHead{
+    background: black !important;
+    color: white;
+}
+
+.tableClass{
+    width: 400px;    
+}
+
+.card{
+    width: 400px;
+    border: 1px solid black;
+    padding: 2rem;
+    margin-left: 2%;
+}
+
+.card-img-top{
+    width: 350px;
+}
