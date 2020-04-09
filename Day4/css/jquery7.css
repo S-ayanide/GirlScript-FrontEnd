@@ -1,0 +1,44 @@
+body{
+    background-color: darkcyan;
+    color: honeydew;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center h1{
+    background-color: darkgray;
+}
+
+.btn1{
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+    background-color: tomato;
+}
+
+.btn2{
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+    background-color: purple;
+}
+
+input{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.btn3{
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+    background-color: rgb(121, 194, 72);
+}

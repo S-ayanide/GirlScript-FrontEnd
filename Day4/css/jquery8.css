@@ -1,0 +1,41 @@
+body{
+    background-color: darkcyan;
+    color: honeydew;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center h1{
+    background-color: darkgray;
+}
+
+.btn1{
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+    background-color: tomato;
+}
+
+.btn2{
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+    background-color: purple;
+}
+
+
+.new{
+    text-align: left;
+    color: black;
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+.new h1{
+    background-color: blue;
+}

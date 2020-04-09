@@ -1,0 +1,10 @@
+$(
+    function(){
+        $("h1").click(function(){
+            $(".sampleBox")
+                .css('background-color','purple')
+                .slideUp(2000)
+                .slideDown(400);
+        });
+    }
+);
