@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@600&display=swap');
+
+html, body{
+    height: 100%;    
+}
+
+#clock{    
+    color: white;
+    font-family: 'Indie Flower', cursive;    
+    font-size: 150px;
+
+    position: relative;
+    top: 17%;   
+    text-align: center;    
+}
+
+#day{
+    font-family: 'Hind', sans-serif;
+    font-size: 70px;
+    text-align: center;
+    margin-left: -45%;
+    padding: 2rem;
+    background-color: whitesmoke;    
+}
