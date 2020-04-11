@@ -1,4 +1,8 @@
 
-#col-xs-12 img{
+#container1 img{
     width: 100%;
+}
+
+.twentytwenty-container {
+    min-height: 200px;
 }
