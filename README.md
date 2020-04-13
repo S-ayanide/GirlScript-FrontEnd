@@ -1,7 +1,7 @@
 # GirlScript FrontEnd Development
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/S-ayanide) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/GirlScript-FrontEnd)](https://github.com/S-ayanide/GirlScript-FrontEnd/issues) [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/GirlScript-FrontEnd?style=flat-square)](https://github.com/S-ayanide/GirlScript-FrontEnd/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/GirlScript-FrontEnd?style=plastic)](https://github.com/S-ayanide/GirlScript-FrontEnd/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/GirlScript-FrontEnd?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This repo consists of all the material that has been covered in the FrontEnd Course 👌⭐️
 
