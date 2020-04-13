@@ -45,7 +45,7 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 [#️⃣ Linkedin](https://www.linkedin.com/in/s-ayanide/)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/GirlScript-FrontEnd?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
